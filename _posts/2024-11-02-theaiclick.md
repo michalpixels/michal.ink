@@ -89,7 +89,7 @@ This premium domain is your opportunity to launch with immediate authority in th
 
 ### Investment: $85,000
 
-[Buy Now Premium Domain: TheAI.click](https://www.namecheap.com/market/buynow/theai.click/){:target="_blank"}
+[Buy Now: TheAI.click (Premium Domain Name)](https://www.namecheap.com/market/buynow/theai.click/){:target="_blank"}
 
 *Don't miss this opportunity to own a premium AI domain that perfectly positions your project for success.*
 
