@@ -5,3 +5,4 @@ date: 2024-11-02
 categories: posts
 ---
 Premium domain name for sale: **TheAI.click**
+[buy now: TheAI.click](https://www.namecheap.com/market/buynow/theai.click/)
