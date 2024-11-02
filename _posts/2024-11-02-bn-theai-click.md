@@ -8,6 +8,8 @@ Premium domain name for sale.
 
 [Buy now: TheAI.click](https://www.namecheap.com/market/buynow/theai.click/){:target="_blank"}
 
+# Here are tips for projects hosted on this domain name.
+
 ## 1. AI Click Insights
 - **Description**: An AI-powered blog aggregator and recommendation engine, curating the latest in AI research, trends, and industry news.
 - **Technology Used**: Python, NLP libraries (e.g., SpaCy, NLTK), Django or Flask, BeautifulSoup for scraping, machine learning for recommendations.
@@ -17,7 +19,7 @@ Premium domain name for sale.
   2. Personalized recommendations boost engagement and user satisfaction.
   3. Revenue potential through ad placements and affiliate links to courses.
 
----
+~~~~
 
 ## 2. AI Click Chatbot
 - **Description**: A chatbot for answering AI-related questions, functioning like a mini expert available on demand.
