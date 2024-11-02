@@ -4,9 +4,11 @@ title: "Buy now domain: TheAI.click $85.000"
 date: 2024-11-02
 categories: posts
 ---
-# Premium domain name for sale.
+Premium domain name for sale.
 
 [Buy now: TheAI.click](https://www.namecheap.com/market/buynow/theai.click/){:target="_blank"}
+
+ `<div style="height: 2px; background-color: blue; margin: 20px 0;"></div>`
 
 # Here are tips for projects hosted on this domain name.
 
@@ -99,7 +101,9 @@ categories: posts
   1. Useful for job seekers, offering real-time, AI-powered feedback.
   2. Provides a learning experience in NLP and document understanding.
   3. Freemium model: basic analysis free, with in-depth analysis as a paid feature.
+  
+ `<div style="height: 2px; background-color: blue; margin: 20px 0;"></div>`
 
-# Premium domain name for sale.
+Premium domain name for sale.
 
 [Buy now: TheAI.click](https://www.namecheap.com/market/buynow/theai.click/){:target="_blank"}
