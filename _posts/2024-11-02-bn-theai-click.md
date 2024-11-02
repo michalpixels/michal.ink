@@ -6,4 +6,4 @@ categories: posts
 ---
 Premium domain name for sale.
 
-#[Buy now: TheAI.click](https://www.namecheap.com/market/buynow/theai.click/)
+[Buy now: TheAI.click](https://www.namecheap.com/market/buynow/theai.click/){:target="_blank"}
