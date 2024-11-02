@@ -8,7 +8,7 @@ Premium domain name for sale.
 
 [Buy now: TheAI.click](https://www.namecheap.com/market/buynow/theai.click/){:target="_blank"}
 
- `<div style="height: 2px; background-color: blue; margin: 20px 0;"></div>`
+ <div style="height: 2px; background-color: blue; margin: 20px 0;"></div>
 
 # Here are tips for projects hosted on this domain name.
 
@@ -102,7 +102,7 @@ Premium domain name for sale.
   2. Provides a learning experience in NLP and document understanding.
   3. Freemium model: basic analysis free, with in-depth analysis as a paid feature.
   
- `<div style="height: 2px; background-color: blue; margin: 20px 0;"></div>`
+ <div style="height: 2px; background-color: blue; margin: 20px 0;"></div>
 
 Premium domain name for sale.
 
