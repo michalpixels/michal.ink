@@ -21,7 +21,7 @@
 title: michal.ink
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  This is my blog.
+  Blog about the domains.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://michal.ink" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
