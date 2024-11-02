@@ -12,6 +12,7 @@ Premium domain name for sale.
 
 # Here are tips for projects hosted on this domain name.
 
+![Alt text](/images/theaiclick-img1.jpg)
 ## 1. AI Click Insights
 - **Description**: An AI-powered blog aggregator and recommendation engine, curating the latest in AI research, trends, and industry news.
 - **Technology Used**: Python, NLP libraries (e.g., SpaCy, NLTK), Django or Flask, BeautifulSoup for scraping, machine learning for recommendations.
