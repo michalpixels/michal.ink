@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "TheAI.click: Your Gateway to AI Innovation"
-except: "Premium Domain Name Available - $7.000"
+excerpt: "Premium Domain Name Available - $7.000"
 date: 2024-11-02
 categories: posts
 ---
